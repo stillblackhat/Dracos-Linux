@@ -7,22 +7,31 @@ Dracos Linux is An Open Source Operating System that provides the tools of Penet
 ### Teaser 
 Link : https://www.youtube.com/watch?v=Pk9VzPGZdas 
 
-# As the target of development
+# Why Dracos Linux ?
 
-### Education 
-Dracos Linux is purposed as an educational,especially to recognize the operation system of linux and we respect ethical hacking.
+### Open Source
+Everyone can use, copy, study, modify, and redistribute.
+
+### Performance
+Dracos Linux was built to be fast, strong, and powerful OS.
+
+### Safe & Secure
+We don't collect any your sensitive personal data.
+
+### Educational
+To recognize the operating system of linux and we respect ethical hacking.
 
 ### Build from source 
 had always been built from codes instead of installer,this will stimulate users in indonesia to stay creative and to build the spirit of opensource.
 
-### Repository
-even though proportionally based on codes,Dracos Linux still intends to construct the repository to build up the processes Like Venomizer 
+### Own Repository
+even though proportionally based on codes, Dracos Linux still intends to construct the repository to build up the processes Like Venomizer 
 
 ### Heavy Control
-We need to recognize this operating system Very Dificult Because Dracos in build from source code, thus forcing us to compile when installing a package or software, which of course will arise the possibility of system failure and other system vulnerabilities.
+We need to recognize this operating system Very Difficult Because Dracos in build from source code, thus forcing us to compile when installing a package or software, which of course will arise the possibility of system failure and other system vulnerabilities.
 
 ### Always from terminal
-None of every singel tool that was installed inside the OS uses GUI. CLI will always consider to particularly openbox to ease the users in need of multi terminal in applying Penetration Testing 
+None of every single tool that was installed inside the OS uses GUI. CLI will always consider to particularly openbox to ease the users in need of multi terminal in applying Penetration Testing 
 
 
 # Penetration Tools List 
